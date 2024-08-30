@@ -1,0 +1,16 @@
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\bin\Debug\net8.0-windows\Liskov_sustitution_principle.exe
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\bin\Debug\net8.0-windows\Liskov_sustitution_principle.deps.json
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\bin\Debug\net8.0-windows\Liskov_sustitution_principle.runtimeconfig.json
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\bin\Debug\net8.0-windows\Liskov_sustitution_principle.dll
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\bin\Debug\net8.0-windows\Liskov_sustitution_principle.pdb
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.Form1.resources
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.csproj.GenerateResource.cache
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.AssemblyInfoInputs.cache
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.AssemblyInfo.cs
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.csproj.CoreCompileInputs.cache
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.dll
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\refint\Liskov_sustitution_principle.dll
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.pdb
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\Liskov_sustitution_principle.genruntimeconfig.cache
+D:\Portfolio\SOLID\SOLID\Liskov_sustitution_principle\obj\Debug\net8.0-windows\ref\Liskov_sustitution_principle.dll

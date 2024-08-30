@@ -1,0 +1,16 @@
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\bin\Debug\net8.0-windows\Single_Responsability_Principle.exe
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\bin\Debug\net8.0-windows\Single_Responsability_Principle.deps.json
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\bin\Debug\net8.0-windows\Single_Responsability_Principle.runtimeconfig.json
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\bin\Debug\net8.0-windows\Single_Responsability_Principle.dll
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\bin\Debug\net8.0-windows\Single_Responsability_Principle.pdb
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.Form1.resources
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.csproj.GenerateResource.cache
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.AssemblyInfoInputs.cache
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.AssemblyInfo.cs
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.csproj.CoreCompileInputs.cache
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.dll
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\refint\Single_Responsability_Principle.dll
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.pdb
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\Single_Responsability_Principle.genruntimeconfig.cache
+D:\Portfolio\SOLID\SOLID\Single_Responsability_Principle\obj\Debug\net8.0-windows\ref\Single_Responsability_Principle.dll

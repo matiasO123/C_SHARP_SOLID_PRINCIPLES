@@ -1,0 +1,16 @@
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\bin\Debug\net8.0-windows\Open_Close_Principle.exe
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\bin\Debug\net8.0-windows\Open_Close_Principle.deps.json
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\bin\Debug\net8.0-windows\Open_Close_Principle.runtimeconfig.json
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\bin\Debug\net8.0-windows\Open_Close_Principle.dll
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\bin\Debug\net8.0-windows\Open_Close_Principle.pdb
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.Form1.resources
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.csproj.GenerateResource.cache
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.AssemblyInfoInputs.cache
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.AssemblyInfo.cs
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.csproj.CoreCompileInputs.cache
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.dll
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\refint\Open_Close_Principle.dll
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.pdb
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\Open_Close_Principle.genruntimeconfig.cache
+D:\Portfolio\SOLID\SOLID\Open_Close_Principle\obj\Debug\net8.0-windows\ref\Open_Close_Principle.dll

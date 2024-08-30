@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portfolio\\SOLID\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6976097B-597A-472C-B0E0-CB80ED56982A}|Dependency_inversion_principle\\Dependency_inversion_principle.csproj|d:\\portfolio\\solid\\solid\\dependency_inversion_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6976097B-597A-472C-B0E0-CB80ED56982A}|Dependency_inversion_principle\\Dependency_inversion_principle.csproj|solutionrelative:dependency_inversion_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6976097B-597A-472C-B0E0-CB80ED56982A}|Dependency_inversion_principle\\Dependency_inversion_principle.csproj|d:\\portfolio\\solid\\solid\\dependency_inversion_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6976097B-597A-472C-B0E0-CB80ED56982A}|Dependency_inversion_principle\\Dependency_inversion_principle.csproj|solutionrelative:dependency_inversion_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38B915C-7A7C-4AC6-9615-92D228E79AC6}|Interface_segregation_principle\\Interface_segregation_principle.csproj|d:\\portfolio\\solid\\solid\\interface_segregation_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38B915C-7A7C-4AC6-9615-92D228E79AC6}|Interface_segregation_principle\\Interface_segregation_principle.csproj|solutionrelative:interface_segregation_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38B915C-7A7C-4AC6-9615-92D228E79AC6}|Interface_segregation_principle\\Interface_segregation_principle.csproj|D:\\Portfolio\\SOLID\\SOLID\\interface_segregation_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B38B915C-7A7C-4AC6-9615-92D228E79AC6}|Interface_segregation_principle\\Interface_segregation_principle.csproj|solutionrelative:interface_segregation_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C028FD-CD35-4BC3-B8E9-211AE3A438F0}|Liskov_sustitution_principle\\Liskov_sustitution_principle.csproj|d:\\portfolio\\solid\\solid\\liskov_sustitution_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C028FD-CD35-4BC3-B8E9-211AE3A438F0}|Liskov_sustitution_principle\\Liskov_sustitution_principle.csproj|solutionrelative:liskov_sustitution_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E42559-416A-4B8C-8869-77C10AFC9024}|Open_Close_Principle\\Open_Close_Principle.csproj|d:\\portfolio\\solid\\solid\\open_close_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E42559-416A-4B8C-8869-77C10AFC9024}|Open_Close_Principle\\Open_Close_Principle.csproj|solutionrelative:open_close_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E42559-416A-4B8C-8869-77C10AFC9024}|Open_Close_Principle\\Open_Close_Principle.csproj|D:\\Portfolio\\SOLID\\SOLID\\open_close_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E42559-416A-4B8C-8869-77C10AFC9024}|Open_Close_Principle\\Open_Close_Principle.csproj|solutionrelative:open_close_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C028FD-CD35-4BC3-B8E9-211AE3A438F0}|Liskov_sustitution_principle\\Liskov_sustitution_principle.csproj|D:\\Portfolio\\SOLID\\SOLID\\liskov_sustitution_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72C028FD-CD35-4BC3-B8E9-211AE3A438F0}|Liskov_sustitution_principle\\Liskov_sustitution_principle.csproj|solutionrelative:liskov_sustitution_principle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Portfolio\\SOLID\\SOLID\\Dependency_inversion_principle\\Form1.cs",
+              "RelativeDocumentMoniker": "Dependency_inversion_principle\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\SOLID\\SOLID\\Dependency_inversion_principle\\Form1.cs",
+              "RelativeToolTip": "Dependency_inversion_principle\\Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:42:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Portfolio\\SOLID\\SOLID\\Dependency_inversion_principle\\Form1.cs",
+              "RelativeDocumentMoniker": "Dependency_inversion_principle\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\SOLID\\SOLID\\Dependency_inversion_principle\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Dependency_inversion_principle\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:41:42.165Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Portfolio\\SOLID\\SOLID\\Interface_segregation_principle\\Form1.cs",
+              "RelativeDocumentMoniker": "Interface_segregation_principle\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\SOLID\\SOLID\\Interface_segregation_principle\\Form1.cs",
+              "RelativeToolTip": "Interface_segregation_principle\\Form1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAqwGwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:25:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Portfolio\\SOLID\\SOLID\\Interface_segregation_principle\\Form1.cs",
+              "RelativeDocumentMoniker": "Interface_segregation_principle\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\SOLID\\SOLID\\Interface_segregation_principle\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interface_segregation_principle\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:24:40.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Portfolio\\SOLID\\SOLID\\Open_Close_Principle\\Form1.cs",
+              "RelativeDocumentMoniker": "Open_Close_Principle\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\SOLID\\SOLID\\Open_Close_Principle\\Form1.cs",
+              "RelativeToolTip": "Open_Close_Principle\\Form1.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:10:06.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Portfolio\\SOLID\\SOLID\\Open_Close_Principle\\Form1.cs",
+              "RelativeDocumentMoniker": "Open_Close_Principle\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\SOLID\\SOLID\\Open_Close_Principle\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Open_Close_Principle\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:09:59.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Portfolio\\SOLID\\SOLID\\Liskov_sustitution_principle\\Form1.cs",
+              "RelativeDocumentMoniker": "Liskov_sustitution_principle\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\SOLID\\SOLID\\Liskov_sustitution_principle\\Form1.cs",
+              "RelativeToolTip": "Liskov_sustitution_principle\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:43:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Portfolio\\SOLID\\SOLID\\Liskov_sustitution_principle\\Form1.cs",
+              "RelativeDocumentMoniker": "Liskov_sustitution_principle\\Form1.cs",
+              "ToolTip": "D:\\Portfolio\\SOLID\\SOLID\\Liskov_sustitution_principle\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Liskov_sustitution_principle\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:42:35.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
